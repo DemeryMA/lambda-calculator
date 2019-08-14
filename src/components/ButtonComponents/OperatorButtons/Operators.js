@@ -21,3 +21,5 @@ const Operators = (props) => {
     </div>
   );
 };
+
+export default Operators; 
