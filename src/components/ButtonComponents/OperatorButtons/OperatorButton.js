@@ -3,9 +3,9 @@ import React from "react";
 const OperatorButton = (props) => {
  console.log(props);
   return (
-    <button>
+    <button className = "operatorButtons" onClick={()=> { props.addOperator(props.text.value)}}>
       {/* Display a button element rendering the data being passed down from the parent container on props */}
-    {props.operator.char}
+    {props.text.char}
     </button>
   );
 };

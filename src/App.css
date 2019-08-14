@@ -1,0 +1,81 @@
+/* .button {
+    color: white;
+    border-radius: 200px;
+    width: 50px;
+    height: 50px;
+    outline: none;
+  }
+  
+  .App {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  .logo-container {
+    padding: 20px 10px 10px 10px;
+    padding-bottom: 0;
+    margin-left: 26px;
+    align-self: flex-start;
+  }
+  
+  .container {
+    width: 300px;
+    background-color: #a71d36;
+    margin: auto auto;
+    border-radius: 15px;
+    
+  }
+  
+  /* .allButtons {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+  
+    width: 90%;
+    margin-bottom: 20px;
+  } */
+  
+
+  
+  /* .specialButtons {
+    width: 30%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row
+    
+    
+  }
+  .operatorButtons {
+    display: flex;
+    
+    margin-left: 10px;
+    border-radius: 50%;
+  }
+  .numberButtons {
+    max-width: 250px;
+    border-radius: 50%; 
+    display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+    margin-top: 10px;
+  }
+
+  
+  .display {
+    width: 230px;
+    height: 60px;
+    border-radius: 50px;
+    background-color: #323335;
+    margin: 10px 10px;
+    color:white;
+    display:flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-size: 2rem;
+  }
+  .displayContent{
+    margin-right: 15px;
+  }
+   */ 
