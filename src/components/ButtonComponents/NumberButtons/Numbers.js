@@ -11,7 +11,7 @@ const Numbers = (props) => {
   const [buttonNumbers, setButtonNumbers] = useState(numbers);
   console.log("Numbers", props);
   return (
-    <div className="numberButtons">
+    <div className="numberContainer">
 
        {buttonNumbers.map((item, index) => { 
          return <NumberButton key={index} text={item} addNumber = {props.addNumber}/>;
